@@ -1,32 +1,46 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/-pwLXzwl3AYAAAAd/criminal-minds-michealcat.gif" width="250">
+  <img src="https://media1.tenor.com/m/-pwLXzwl3AYAAAAd/criminal-minds-michealcat.gif" width="220">
 </p>
 
 <h1 align="center">🏥 MedLedgerAI</h1>
 
 <p align="center">
-🚀 Smart Healthcare Database & Medical Ledger Management System  
+  <b>Smart Healthcare Database & Medical Ledger System</b><br>
+  Designed for scalable hospital data management and future AI integration
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQL-Triggers-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Version-1.0-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-Triggers-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Analytics-Views-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0-red?style=for-the-badge">
 </p>
 
 ---
 
-## 🧠 About The Project
+## 🧠 Overview
 
-**MedLedgerAI** is a structured healthcare database system built to manage hospital operations efficiently.
-It focuses on **real-world database design**, automation using SQL triggers, and analytical reporting using SQL views.
+**MedLedgerAI** is a robust healthcare database system engineered to handle real-world hospital operations with efficiency and scalability.
 
-This project can be extended into a **full AI-powered healthcare management platform.**
+It emphasizes:
+
+- 📌 Structured relational database design  
+- ⚡ Automation using SQL triggers  
+- 📊 Analytical insights via SQL views  
+- 🔮 Future-ready architecture for AI integration  
 
 ---
 
-## 🎬 Project Demo
+## 🎯 Objectives
+
+- Streamline hospital data management  
+- Automate repetitive database operations  
+- Provide analytical insights for decision-making  
+- Build a scalable backend for future healthcare applications  
+
+---
+
+## 🎬 Demo Preview
 
 <p align="center">
   <img src="https://media1.tenor.com/m/-pwLXzwl3AYAAAAd/criminal-minds-michealcat.gif" width="500">
@@ -34,84 +48,36 @@ This project can be extended into a **full AI-powered healthcare management plat
 
 ---
 
-## ✨ Core Features
+## ✨ Features
 
-🧾 Patient Record Management
-💊 Medicine Inventory Tracking
-💰 Billing & Transaction Logs
-⚡ SQL Triggers for Automation
-📊 SQL Views for Data Analytics
-🗄️ Database Backup Support
-📈 Scalable Relational Schema
-🤖 Future AI Integration Ready
+### 🧾 Patient Management
+- Store and manage patient records
+- Track history and details efficiently
 
----
+### 💊 Inventory System
+- Monitor medicine stock
+- Prevent shortages using structured tracking
 
-## 🏗️ Database Architecture
+### 💰 Billing System
+- Maintain transaction logs
+- Generate structured billing records
 
-```id="c3wjtf"
-database/
-│── schema.sql
-│── seed.sql
-│── triggers.sql
-│── views.sql
-│── medledger_setup.sql
-│── Backup/
-```
+### ⚡ Automation (Triggers)
+- Auto-update records
+- Reduce manual intervention
 
----
+### 📊 Data Analytics (Views)
+- Predefined SQL views for insights
+- Quick reporting for decision-making
 
-## ⚙️ Installation Guide
+### 🗄️ Backup Support
+- Secure database backups
+- Restore capabilities for safety
 
-### 🔽 Clone Repository
-
-```id="6myh4u"
-git clone https://github.com/KAIZER-2002/MedLedgerAI.git
-cd MedLedgerAI
-```
-
-### 🗄️ Setup Database
-
-```id="1f1eha"
-mysql -u root -p < schema.sql
-mysql -u root -p < seed.sql
-mysql -u root -p < triggers.sql
-mysql -u root -p < views.sql
-```
+### 📈 Scalable Design
+- Normalized relational schema
+- Easily extendable for large-scale systems
 
 ---
 
-## 🚀 Future Scope
-
-🔹 AI Prescription Suggestions
-🔹 Medical Analytics Dashboard
-🔹 Full Stack Web Application
-🔹 Role Based Login System
-🔹 Cloud Deployment
-
----
-
-## 👨‍💻 Author
-
-**Swapnil Nandi**
-🎓 B.Tech CSE
-💡 AI • Full Stack • Database Enthusiast
-
----
-
-## ⭐ Show Your Support
-
-If you like this project:
-
-⭐ Star this repository
-🍴 Fork this project
-🚀 Contribute
-
----
-
-<p align="center">
-Made with ❤️ for Healthcare Innovation
-</p>
-
-----
-![Demo GIF](https://media1.tenor.com/m/-pwLXzwl3AYAAAAd/criminal-minds-michealcat.gif)
+## 🏗️ Project Structure
